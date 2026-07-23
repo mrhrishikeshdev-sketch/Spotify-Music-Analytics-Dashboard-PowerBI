@@ -40,6 +40,7 @@
 - [Getting Started](#-getting-started)
 - [Future Enhancements](#-future-enhancements)
 - [Author](#-author)
+- [Acknowledgements](#-acknowledgements)
 - [License](#-license)
 
 ---
