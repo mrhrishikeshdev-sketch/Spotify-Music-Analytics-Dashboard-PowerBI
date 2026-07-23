@@ -33,35 +33,10 @@ Use the nav bar to move between Home, Overview, Artist, and Song pages.
 
 ## 👨‍💻 Author
 
-<div align="center">
-
-### Hrishikesh Kshirsagar
-**Data Analyst | Business Intelligence Developer**
-
+**Hrishikesh Kshirsagar**
 Bachelor of Engineering – Artificial Intelligence & Data Science
 
-</div>
-
-I'm a data analyst focused on turning raw datasets into decision-ready dashboards — from data cleaning and modeling to DAX and visual storytelling. This project reflects my approach to BI development: clean data pipelines, purposeful KPIs, and a UI designed to be used, not just looked at.
-
-**Core Skills:** Power BI • DAX • Power Query (M) • SQL • Python • Excel • Data Modeling • Data Visualization • Machine Learning • Business Analysis
-
-**Open to:** Data Analyst / BI Developer roles, freelance dashboard projects, and collaboration on analytics case studies.
-
-<p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-## 🙏 Acknowledgements
-
-- Dataset sourced from Spotify's Top 50 – World chart history
-- Icons used under respective free-use/attribution licenses (see `Assets/Icons/`)
-- Built and designed independently as a personal portfolio project
+Power BI • SQL • Python • Machine Learning • Data Analytics • Business Intelligence
 
 ---
 
