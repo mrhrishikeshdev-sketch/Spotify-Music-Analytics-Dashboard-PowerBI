@@ -106,16 +106,16 @@ Spotify Top 50 – World Dataset (CSV)
 ## 🖥 Dashboard Preview
 
 ### 🏠 Home
-![Home Page](Images/Home.png)
+![Home Page](Images/HOME.png)
 
 ### 📈 Overview
-![Overview Page](Images/Overview.png)
+![Overview Page](Images/OVERVIEW.png)
 
 ### 🎤 Artist Analysis
-![Artist Page](Images/Artist.png)
+![Artist Page](Images/ARTIST.png)
 
 ### 🎶 Song Analysis
-![Song Page](Images/Songs.png)
+![Song Page](Images/SONGS.png)
 
 ---
 
