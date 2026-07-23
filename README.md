@@ -303,7 +303,7 @@ I'm a data analyst focused on turning raw datasets into decision-ready dashboard
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hrishikesh-kshirsagar-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/https://github.com/mrhrishikeshdev-sketch"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:mr.hrishikesh.dev@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://https://mrhrishikeshdev-sketch.github.io/hrishikesh-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
